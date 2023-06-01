@@ -1,0 +1,7 @@
+.carousel-root {
+  position: relative !important;
+}
+
+.carousel {
+  justify-content: center;
+}
